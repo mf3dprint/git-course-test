@@ -1,0 +1,1 @@
+consola.log ('Hola mundo');
